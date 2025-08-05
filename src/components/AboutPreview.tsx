@@ -55,7 +55,7 @@ export default function AboutPreview() {
           <div className="relative animate-slide-up delay-300">
             <div className="relative w-full h-96 lg:h-[500px] rounded-3xl overflow-hidden shadow-2xl">
               <img
-                src="/placeholder.svg?height=500&width=400"
+                src="https://imgs.search.brave.com/spIDKc2QYFoUB-U8j6OokepbqeOkIjvqZFBIxsLM-7U/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wNTUv/OTc4LzgyMS9zbWFs/bC9lbGVnYW50LXJl/ZC1tYW5pY3VyZS1z/aG93Y2FzaW5nLWxv/bmctZ2xvc3N5LW5h/aWxzLWFnYWluc3Qt/YS1zcGFya2xpbmct/YmFja2dyb3VuZC1m/cmVlLXBob3RvLmpw/ZWc?height=500&width=400"
                 alt="Nail Artist at Work"
                 className="w-full h-full object-cover"
               />

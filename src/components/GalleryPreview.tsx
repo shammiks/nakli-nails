@@ -9,32 +9,32 @@ export default function GalleryPreview() {
 
   const galleryImages = [
     {
-      src: "/placeholder.svg?height=400&width=400",
+      src: "https://imgs.search.brave.com/cBHm48rV8uyzmxines8lidI36POK4-oJcbetZazd0CQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/ODExc0FldUlBTkwu/anBn?height=500&width=400",
       alt: "Pink and Gold Nail Art",
       category: "Nail Art",
     },
     {
-      src: "/placeholder.svg?height=400&width=400",
+      src: "https://imgs.search.brave.com/zax-NL5rq4AA-X19lKnhQye2f5GnW1NBlCA0rDnRqoQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/ODFydnJkWFFZY0wu/anBn?height=500&width=400",
       alt: "French Manicure with Glitter",
       category: "Classic",
     },
     {
-      src: "/placeholder.svg?height=400&width=400",
+      src: "https://imgs.search.brave.com/zax-NL5rq4AA-X19lKnhQye2f5GnW1NBlCA0rDnRqoQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/ODFydnJkWFFZY0wu/anBn?height=500&width=400",
       alt: "Rainbow Nail Design",
       category: "Creative",
     },
     {
-      src: "/placeholder.svg?height=400&width=400",
+      src: "https://imgs.search.brave.com/cBHm48rV8uyzmxines8lidI36POK4-oJcbetZazd0CQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/ODExc0FldUlBTkwu/anBn?height=500&width=400",
       alt: "Minimalist Nude Art",
       category: "Minimal",
     },
     {
-      src: "/placeholder.svg?height=400&width=400",
+      src: "https://imgs.search.brave.com/ralUewo16Yue9d3JkCTO_rq3XBMRFmpUS9f-DbRQD2o/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFGT2xCaFl0Vkwu/anBn?height=500&width=400",
       alt: "Chrome Mirror Finish",
       category: "Chrome",
     },
     {
-      src: "/placeholder.svg?height=400&width=400",
+      src: "https://imgs.search.brave.com/qR541sbI6Knj8CYuSfbkoVFk-1PvZPmj8kgG2Fri3XY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFkZlBzWDNqRUwu/anBn?height=500&width=400",
       alt: "Floral Nail Art",
       category: "Floral",
     },
